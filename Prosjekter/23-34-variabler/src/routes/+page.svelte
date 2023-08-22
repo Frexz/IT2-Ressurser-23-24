@@ -1,6 +1,8 @@
 <script>
     // Opprett variablene 'koppA' og 'koppB', og gi dem henholdsvis verdiene 'kaffe' og 'te'
-
+    let koppA = "kaffe"
+    let koppB = "te"
+    
     function bytt() {
         // Skriv en funksjon som bytter innholdet i koppA og koppB
     }
