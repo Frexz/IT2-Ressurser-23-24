@@ -2,9 +2,12 @@
     // Opprett variablene 'koppA' og 'koppB', og gi dem henholdsvis verdiene 'kaffe' og 'te'
     let koppA = "kaffe"
     let koppB = "te"
+    let koppC = koppA
     
     function bytt() {
         // Skriv en funksjon som bytter innholdet i koppA og koppB
+        koppA = koppB
+        koppB = koppC
     }
 </script>
 
@@ -30,7 +33,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: 30vh;
+        height: 100vh;
     }
 
     .kaffe, .te {
