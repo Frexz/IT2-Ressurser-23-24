@@ -18,14 +18,4 @@
         margin-right: 10px;
     }
 
-    ul {
-        display: flex;
-        list-style: none;
-    }
-
-    li {
-        font-size: 20px;
-        margin: 0 10px;
-    }
-
 </style>

@@ -12,6 +12,7 @@
 <style>
     .innhold {
         display: flex;
+        flex-direction: column;
         height: 80vh;
         justify-content: center;
         align-items: center;
