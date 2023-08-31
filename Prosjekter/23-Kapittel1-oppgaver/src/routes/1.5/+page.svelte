@@ -2,8 +2,8 @@
     import { page } from '$app/stores'
     let delkapittel = $page.url.pathname.slice(-3)
     let oppgaver = []
-    let antall =  6
-    let start = 28
+    let antall =  7
+    let start = 34
 
     for (let i = start; i < start + antall; i++) {
         i < 10 ? oppgaver.push("0" + i.toString()) : oppgaver.push(i.toString())
