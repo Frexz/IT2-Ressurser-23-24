@@ -5,8 +5,16 @@
 
 <h1>Oppgave {oppgavenummer}</h1>
 
-<slot></slot>
+<div class="innhold">
+    <slot></slot>
+</div>
 
 <style>
-    
+    .innhold {
+        display: flex;
+        flex-direction: column;
+        height: 80vh;
+        justify-content: center;
+        align-items: center;
+    }
 </style>
