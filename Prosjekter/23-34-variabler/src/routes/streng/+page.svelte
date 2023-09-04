@@ -1,11 +1,15 @@
 <script>
-    let navn = ["Fredrik", "Lars", "Truls", "Kjell"]
-    let resultat
+    let navn = ["Fredrik", "Bjørnar", "Truls", "Kjell"]
+    let kuttede = navn.pop()
 </script>
 
 <!-- <button on:click={() => {resultat = navn.slice(4)}}>Klikk</button> -->
 
-<h1>{navn}</h1>
+{#each navn as n, i}
+    <p>{n} er på indeks {i}</p>
+{/each}
+
+{kuttede}
 
 
 <style>
