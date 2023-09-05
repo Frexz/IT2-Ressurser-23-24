@@ -1,5 +1,6 @@
 <script>
-    let delkapittel = window.location.pathname.slice(-3)
+    import { page } from '$app/stores'
+    let delkapittel = $page.url.pathname.slice(-3)
     let oppgaver = []
     let antall =  10
     let start = 1
