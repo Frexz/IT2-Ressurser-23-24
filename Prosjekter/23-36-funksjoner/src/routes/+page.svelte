@@ -1,2 +1,20 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    let tall = 75
+
+    function sjekkPartall(x) {
+        if (x % 2 == 0) {
+            return true
+        } else if (true) {
+            "noe gikk galt"
+        } else {
+            return false
+        }
+    }
+
+</script>
+
+<h1>Er tallet {tall} et partall? {sjekkPartall(tall)}</h1>
+
+<style>
+    
+</style>
