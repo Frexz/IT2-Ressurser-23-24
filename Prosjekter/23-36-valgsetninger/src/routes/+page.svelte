@@ -1,6 +1,9 @@
 <script>
-    let utsagn = "\"fredrik\" == \"fredrik\""
+
+    let tall = [0, 2, 4, 6, 8, 10]
+    let utsagn = '!(tall.includes(3))'
     let logiskUtsagn = eval(utsagn)
+
 </script>
 
 <div class="innhold">
