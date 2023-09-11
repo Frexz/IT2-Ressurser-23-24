@@ -10,3 +10,4 @@
 06.09.23 - La til arbeidsprosjekt om valgsetninger og andre småting.
 06.09.23 - La til oppgave 1.53 - 1.55
 11.09.23 - La til oppgave 1.56 - 1.58, ferdig med delkapittel 1.7
+11.09.23 - La til oppgave 1.59 - 1.63, ferdig med delkapittel 1.8
