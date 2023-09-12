@@ -1,25 +1,23 @@
 <script>
-    let delkapitler = ["1.1", "1.2", "1.3", "1.4", "1.5", "1.6", "1.7", "1.8"]
+    let kapitler = [1, 2, 3, 4, 5, 6]
 </script>
 
-<h1>Oppgaver - Kapittel 1 - Løsningsforslag</h1>
+<h1>Kode 2 - Løsningsforslag</h1>
+<h2>Kapitler</h2>
 
 <ul>
-    {#each delkapitler as num}
-        <li>
-            <a href="/{num}">{num}</a>
-        </li>
+    {#each kapitler as k}
+        <li><a href="kapittel{k}">Kapittel {k}</a></li>
     {/each}
 </ul>
 
 <style>
     ul {
-        display: flex;
         list-style: none;
     }
 
     li {
         font-size: 20px;
-        margin: 0 10px;
+        margin-bottom: 20px;
     }
 </style>

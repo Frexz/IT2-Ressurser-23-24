@@ -1,15 +1,12 @@
 <script>
+    let tall = 209999
 
-    let tall = [0, 2, 4, 6, 8, 10]
-    let utsagn = '!(tall.includes(3))'
-    let logiskUtsagn = eval(utsagn)
 
 </script>
 
-<div class="innhold">
-    <h1>Utrykket <span style="color: purple;">{utsagn}</span> evalueres som 
-    <span style="color: {logiskUtsagn ? "green" : "red"}">{logiskUtsagn}</span></h1>
-</div>
+    <div class="innhold">
+        <span style="color: {tall % 2 == 0 ? "green" : "red"}"><h1>{tall}</h1></span>
+    </div>
 
 
 <style>

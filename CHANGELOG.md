@@ -11,3 +11,4 @@
 06.09.23 - La til oppgave 1.53 - 1.55
 11.09.23 - La til oppgave 1.56 - 1.58, ferdig med delkapittel 1.7
 11.09.23 - La til oppgave 1.59 - 1.63, ferdig med delkapittel 1.8
+12.09.23 - Store omstrukturereringer av løsningsforslag der alle løsninger er i samme prosjekt
