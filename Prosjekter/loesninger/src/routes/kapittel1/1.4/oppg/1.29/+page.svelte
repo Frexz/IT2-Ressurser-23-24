@@ -9,18 +9,18 @@
     </li>
 
     <li>
-        Hvis man har en streng med verdien <i>"23"</i> kan man konvertere denne verdien til typen number med funksjonen <i>Number()</i>
-        slik: <i>Number("23")</i>.
+        Hvis man har en streng med verdien <i>"23"</i> kan man konvertere denne verdien til typen number med funksjonen <code>Number()</code>
+        slik: <code>Number("23")</code>.
     </li>
 
     <li>
-        Hvis man har et tall med verdien <i>23</i> kan man kovertere denne verdien til typen string med funksjonen <i>String()</i>
-        slik: <i>String(23)</i>
+        Hvis man har et tall med verdien <i>23</i> kan man kovertere denne verdien til typen string med funksjonen <code>String()</code>
+        slik: <code>String(23)</code>
     </li>
 
     <li>
-        For å sjekke hvilken type en verdi har kan man bruke funksjonen <i>typeof</i> slik at <i>typeof "23"</i> er {typeof "23"}
-        og <i>typeof 23</i> er {typeof 23}.
+        For å sjekke hvilken type en verdi har kan man bruke funksjonen <code>typeof</code> slik at <code>typeof "23"</code> er {typeof "23"}
+        og <code>typeof 23</code> er {typeof 23}.
     </li>
 </ul>
 

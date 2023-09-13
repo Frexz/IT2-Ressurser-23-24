@@ -3,8 +3,9 @@
 </script>
 
 <ol>
-    <li id="a" class="a">Man kan gi et HTML-element en id eller en class. For å style alle elementer med en
-        id eller class bruker man # etterfulgt av iden for id og . etterfulgt av navnet for class.
+    <li id="a" class="a">Man kan gi et HTML-element en id eller en class slik: <code>&lt;div id="minId"&gt;&lt;/div&gt;</code> eller slik: <code>&lt;div class="minKlasse"&gt;&lt;/div&gt;</code>. For å style alle elementer med en
+        id gjør man slik innenfor <code>&lt;style&gt;</code>-taggen: <code>#minId &#123;&#125</code> eller for 
+        klasser slik: <code>.minKlasse &#123;&#125</code>
     </li>
     <li>Man bruker id hvis man har et element som er unikt og skal styles unikt. Class bruker man
         hvis man har flere elementer som skal styles likt.
