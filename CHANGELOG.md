@@ -12,3 +12,4 @@
 11.09.23 - La til oppgave 1.56 - 1.58, ferdig med delkapittel 1.7
 11.09.23 - La til oppgave 1.59 - 1.63, ferdig med delkapittel 1.8
 12.09.23 - Store omstrukturereringer av løsningsforslag der alle løsninger er i samme prosjekt
+13.09.23 - La til siste oppgavene til delkapittel 1.1 og 1.2. Kapittel 1 er ferdig. La til arbeidsprosjekt for visning av css-variabler.
