@@ -9,20 +9,20 @@
 
 
 <ul>
-    <li style="color: rgb(255, 0, 0);">red - rgb(255, 0, 0)</li>
-    <li style="color: rgb(0, 0, 255);">blue - rgb(0, 0, 255)</li>
-    <li style="color: rgb(0, 255, 0);">green - rgb(0, 255, 0)</li>
-    <li style="color: rgb(255, 255, 0);">yellow - rgb(255, 255, 0)</li>
-    <li style="color: rgb(128, 0, 128);">purple - rgb(128, 0, 128)</li>
-    <li style="color: rgb(255, 192, 203);">pink - rgb(255, 192, 203)</li>
-    <li style="color: rgb(255, 165, 0);">orange - rgb(255, 165, 0)</li>
+    <li style="color: rgb(255, 0, 0);">red - <code>rgb(255, 0, 0)</code></li>
+    <li style="color: rgb(0, 0, 255);">blue - <code>rgb(0, 0, 255)</code></li>
+    <li style="color: rgb(0, 255, 0);">green - <code>rgb(0, 255, 0)</code></li>
+    <li style="color: rgb(255, 255, 0);">yellow - <code>rgb(255, 255, 0)</code></li>
+    <li style="color: rgb(128, 0, 128);">purple - <code>rgb(128, 0, 128)</code></li>
+    <li style="color: rgb(255, 192, 203);">pink - <code>rgb(255, 192, 203)</code></li>
+    <li style="color: rgb(255, 165, 0);">orange - <code>rgb(255, 165, 0)</code></li>
 </ul>
 
 <ul>
-    <li style="color: rgb(0, 0, 0);">black - rgb(0, 0, 0)</li>
-    <li style="color: rgb(128, 128, 128);">gray - rgb(128, 128, 128)</li>
-    <li style="color: rgb(211, 211, 211);">lightgray - rgb(211, 211, 211)</li>
-    <li style="background-color: black; color: rgb(255, 255, 255);">white - rgb(255, 255, 255)</li>
+    <li style="color: rgb(0, 0, 0);">black - <code>rgb(0, 0, 0)</code></li>
+    <li style="color: rgb(128, 128, 128);">gray - <code>rgb(128, 128, 128)</code></li>
+    <li style="color: rgb(211, 211, 211);">lightgray - <code>rgb(211, 211, 211)</code></li>
+    <li style="background-color: black; color: rgb(255, 255, 255);">white - <code>rgb(255, 255, 255)</code></li>
 </ul>
 
 <div class="tekst">

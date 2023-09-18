@@ -1,9 +1,10 @@
 <script>
-
+    let bakgrunn = "purple"
 </script>
 
+<input type="color" bind:value={bakgrunn}>
 
-<div class="bokser">
+<div class="bokser" style="--bakgrunnsFarge: {bakgrunn};">
     <div class="boks1">
         <h1>CSS</h1>
     </div>
@@ -18,6 +19,7 @@
 </div>    
 
 <style>
+
     .bokser {
         align-items: center;
         display: flex;
@@ -28,7 +30,7 @@
 
     .boks1, .boks2, .boks3 {
         align-items: center;
-        background-color: purple;
+        background-color: var(--bakgrunnsFarge);
         display: flex;
         height: 100px;
         justify-content: center;
@@ -37,7 +39,7 @@
     }
 
     h1 {
-        color: pink;
+        color: var(--tekstFarge);
         font-size: 50px;
     }
 

@@ -26,7 +26,7 @@
 <h3>Oddetall</h3>
 <p>{oddetall}</p>
 
-<p>For å sortere arrayene i synkende rekkefølge kan man bruke metoden reverse() siden tallene allerede er sortert.</p>
+<p>For å sortere arrayene i synkende rekkefølge kan man bruke metoden <code>reverse()</code> siden tallene allerede er sortert.</p>
 <style>
     
 </style>
