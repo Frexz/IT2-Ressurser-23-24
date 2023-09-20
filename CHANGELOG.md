@@ -15,3 +15,4 @@
 12.09.23 - Store omstrukturereringer av løsningsforslag der alle løsninger er i samme prosjekt
 13.09.23 - La til siste oppgavene til delkapittel 1.1 og 1.2. Kapittel 1 er ferdig. La til arbeidsprosjekt for visning av css-variabler.
 18.09.23 - La til prosjektbeskrivelsemappe og beskrivelse av innloggingssystem
+20.09.23 - La til oppgave 2.01 - 2.06 + mappen 'gjenbruk'
