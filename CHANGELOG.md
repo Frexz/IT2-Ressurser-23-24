@@ -16,3 +16,4 @@
 13.09.23 - La til siste oppgavene til delkapittel 1.1 og 1.2. Kapittel 1 er ferdig. La til arbeidsprosjekt for visning av css-variabler.
 18.09.23 - La til prosjektbeskrivelsemappe og beskrivelse av innloggingssystem
 20.09.23 - La til oppgave 2.01 - 2.06 + mappen 'gjenbruk'
+22.09.23 - La til forklaring på bruk av Svelte-stores, hvordan man lagrer info fra gang til gang
