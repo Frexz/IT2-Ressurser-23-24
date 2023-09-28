@@ -18,3 +18,4 @@
 20.09.23 - La til oppgave 2.01 - 2.06 + mappen 'gjenbruk'
 22.09.23 - La til forklaring på bruk av Svelte-stores, hvordan man lagrer info fra gang til gang
 28.09.23 - La til oppgave 2.09 - 2.11
+28.09.23 - La til oppgave 2.12 og 2.13

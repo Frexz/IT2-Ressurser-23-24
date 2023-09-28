@@ -90,3 +90,19 @@ export function lagmRNA(DNA_tråd) {
 
     return mRNATråd
 }
+
+export function vektor(x1, y1, x2, y2) {
+    return [x2 - x1, y2 - y1]
+}
+
+export function lengde(vektor) {
+    return Math.sqrt(vektor[0]**2 + vektor[1]**2)
+}
+
+export function skalarprodukt(vektor1, vektor2) {
+    return vektor1[0]*vektor2[0] + vektor1[1]*vektor2[1]
+}
+
+export function vinkelenMellom(vektor1, vektor2) {
+    return Math.acos(skalarprodukt(vektor1, vektor2)/(lengde(vektor1)*lengde(vektor2)))
+}
