@@ -106,3 +106,44 @@ export function skalarprodukt(vektor1, vektor2) {
 export function vinkelenMellom(vektor1, vektor2) {
     return Math.acos(skalarprodukt(vektor1, vektor2)/(lengde(vektor1)*lengde(vektor2)))
 }
+
+export function storForbokstav(ord) {
+    return ord.charAt(0).toUpperCase() + ord.slice(1)
+}
+
+export function lagValutaOversikt() {
+    let tabell = []
+    tabell.push(
+        {"valuta": "EUR", "kurs": 0.087},
+        {"valuta": "USD", "kurs": 0.093},
+        {"valuta": "GBP", "kurs": 0.087},
+        {"valuta": "JPY", "kurs": 13.82},
+        {"valuta": "NOK", "kurs": 1}
+    )
+    return tabell
+}
+
+export function veksleFraNOK(beløp, tilValuta) {
+    let valutaTabell = lagValutaOversikt()
+
+    for (const rad of valutaTabell) {
+        if (rad["valuta"] == tilValuta) {
+            return beløp * rad["kurs"]
+        }
+    }
+}
+
+export function veksleFraTil(beløp, fraValuta, tilValuta) {
+    let fraValutaData
+    let valutaTabell = lagValutaOversikt()
+
+    for (const rad of valutaTabell) {
+        if (rad["valuta"] == fraValuta) {
+            fraValutaData = rad
+        }
+    }
+
+    let beløpNOK = beløp / fraValutaData["kurs"]
+
+    return veksleFraNOK(beløpNOK, tilValuta)
+}

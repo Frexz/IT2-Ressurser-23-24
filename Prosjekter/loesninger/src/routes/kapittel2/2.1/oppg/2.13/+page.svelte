@@ -1,5 +1,6 @@
 <script>
-    /* Må teste litt mer */
+    /* OBS! Figuren i boken som viser vinkelen mellom vektoren u = [6, 3] og v = [5, -2] gir en
+    vinkel på 48,37 grader, ikke 53,13 grader slik figuren viser. */
     import { vinkelenMellom } from "../../../../../../../gjenbruk/mineFunksjoner"
     import { tilGrader } from "../../../../../../../gjenbruk/mineVariabler"
 
