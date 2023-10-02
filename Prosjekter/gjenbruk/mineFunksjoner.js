@@ -147,3 +147,48 @@ export function veksleFraTil(beløp, fraValuta, tilValuta) {
 
     return veksleFraNOK(beløpNOK, tilValuta)
 }
+
+export function strømUt(strømInn) {
+    return [-strømInn[0], -strømInn[1]]
+}
+
+export function fordelStrøm(strømInn, antallLedningerUt) {
+    let totalStrøm = sumArray(strømInn)
+    let strømPerLedning = totalStrøm / antallLedningerUt
+    let strømUt = []
+
+    for (let i = 0; i < antallLedningerUt; i++) {
+        strømUt.push(strømPerLedning)
+    }
+
+    return strømUt
+}
+
+export function refVerdiTil(stoffnavn) {
+    switch (stoffnavn.toLowerCase()) {
+        case "hemoglobin":
+            return [13.4, 17.0]
+        case "natrium":
+            return [137, 145]
+        case "kalium":
+            return [3.6, 5.0]
+        case "protein":
+            return [62, 78]
+        case "jern":
+            return [10.0, 25.0]
+        case "lymfocytter":
+            return [1.5, 6.5]
+        default:
+            break;
+    }
+}
+
+export function erNormalt(stoffnavn, pasientensVerdi) {
+    let refVerdier = refVerdiTil(stoffnavn)
+
+    if (pasientensVerdi >= refVerdier[0] && pasientensVerdi <= refVerdier[1]) {
+        return true
+    }
+
+    return false
+}

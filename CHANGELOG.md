@@ -20,3 +20,4 @@
 28.09.23 - La til oppgave 2.09 - 2.11
 28.09.23 - La til oppgave 2.12 og 2.13
 30.09.23 - La til oppgave 2.14 og delvis 2.15
+01.10.23 - La til oppgave 2.16 og 2.17. Ferdig med delkapittel 2.1
