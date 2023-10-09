@@ -14,3 +14,6 @@ export function kastValgtTerning(sider) {
     return Math.floor(sider*Math.random() + 1)
 }
 
+export function storForbokstav(ord) {
+    return ord.charAt(0).toUpperCase() + ord.slice(1)
+}
