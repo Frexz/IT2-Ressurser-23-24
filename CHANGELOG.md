@@ -23,3 +23,4 @@
 01.10.23 - La til oppgave 2.16 og 2.17. Ferdig med delkapittel 2.1
 03.10.23 - La til oppgave 2.18
 04.10.23 - La til oppgave 2.19
+10.10.23 - La til oppgave 2.20 - 2.22
