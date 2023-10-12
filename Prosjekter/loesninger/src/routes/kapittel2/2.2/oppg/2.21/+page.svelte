@@ -2,7 +2,7 @@
     import Knapp from "../../../../../../../gjenbruk/komponentbibliotek/Knapp.svelte";
 
     let sifre = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-    let visning = "80085"
+    let visning = "1234"
     
 </script>
 
