@@ -24,5 +24,5 @@
 03.10.23 - La til oppgave 2.18
 04.10.23 - La til oppgave 2.19
 10.10.23 - La til oppgave 2.20 - 2.22
-
+12.10.23 - La til oppgave 2.23 - 2.25
 13.10.23 - La til oppgave 2.26 - 2.28
