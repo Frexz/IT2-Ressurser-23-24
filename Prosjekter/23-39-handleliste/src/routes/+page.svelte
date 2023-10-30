@@ -1,7 +1,9 @@
 <script>
     import Teller from "./_komponenter/Teller.svelte";
+    import { storForbokstav } from "../../../gjenbruk/myFunctions"
 
-    let vare
+    let vare = ""
+    let melding = ""
     let handleliste = [
         {"navn": "Sjokolademelk", "antall": 0},
         {"navn": "Sjokolade", "antall": 0},
@@ -16,12 +18,32 @@
             }
         }
 
-        handleliste.push({"navn": vare, "antall": 0})
-        handleliste = handleliste
+        if (vare.length > 20) {
+            melding = "Varen kan ikke ha flere enn 20 tegn."
+        } else if (vare.length == 0) {
+            melding = "Varen må inneholde minst ett tegn."
+        } else {
+            handleliste.push({"navn": vare, "antall": 0})
+            melding = ""
+            handleliste = handleliste
+        }
+
+        vare = ""
     }
 
     function fjernVare() {
         handleliste = handleliste.filter((element) => element["navn"] != vare)
+        vare = ""
+    }
+
+    function handleKeypress(e) {
+        if (e.keyCode == 13) {
+            leggTilVare()
+        }
+    }
+
+    $: {
+        vare = storForbokstav(vare)
     }
 
 </script>
@@ -29,9 +51,14 @@
 
 
 <div class="handleliste">
-    <input type="text" bind:value={vare}>
-    <button on:click={leggTilVare}>Legg til</button>
-    <button on:click={fjernVare}>Fjern vare</button>
+    <div class="medFeilmelding">
+        <div class="inputs">
+            <input type="text" bind:value={vare} on:keypress={(e) => handleKeypress(e)}>
+            <button on:click={leggTilVare}>Legg til</button>
+            <button on:click={fjernVare}>Fjern vare</button>
+        </div>
+        <p>{melding}</p>
+    </div>
 
     <ul>
         <div class="varer">
@@ -53,6 +80,11 @@
         margin-left: 10px;
     }
 
+    p {
+        color: red;
+        height: 10px;
+    }
+
     li {
         display: flex;
         justify-content: center;
@@ -71,5 +103,9 @@
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 10px;
+    }
+
+    .medFeilmelding {
+        flex-direction: column;
     }
 </style>

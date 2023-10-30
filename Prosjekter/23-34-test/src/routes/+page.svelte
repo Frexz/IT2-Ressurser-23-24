@@ -1,5 +1,9 @@
 <script>
-    let fagnavn = "Fysikk 1"
+    let fagnavn = "IT2"
+
+    function gjørOmFag() {
+        fagnavn = "Fysikk 2"
+    }
 </script>
 
 <h1>Velkommen til {fagnavn}</h1>
