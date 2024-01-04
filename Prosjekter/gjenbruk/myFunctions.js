@@ -15,5 +15,9 @@ export function kastValgtTerning(sider) {
 }
 
 export function storForbokstav(ord) {
-    return ord.charAt(0).toUpperCase() + ord.slice(1).toLowerCase()
+    return ord.charAt(0).toUpperCase() + ord.slice(1)
+}
+
+export function kvadratrot(tall) {
+    return Math.sqrt(tall)
 }
