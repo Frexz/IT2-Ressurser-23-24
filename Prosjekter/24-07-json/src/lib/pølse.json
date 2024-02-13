@@ -1,0 +1,622 @@
+[
+  {
+    "winnerID": 1,
+    "year": 2023,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 62,
+    "totalCompetitors": 15,
+    "division": "M",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 2,
+    "year": 2023,
+    "firstName": "Miki",
+    "lastName": "Sudo",
+    "numberDogs": 39.5,
+    "totalCompetitors": 14,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2022,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 63,
+    "totalCompetitors": 16,
+    "division": "M",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 2,
+    "year": 2022,
+    "firstName": "Miki",
+    "lastName": "Sudo",
+    "numberDogs": 42,
+    "totalCompetitors": 13,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2021,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 76,
+    "totalCompetitors": 17,
+    "division": "M",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 3,
+    "year": 2021,
+    "firstName": "Michelle",
+    "lastName": "Lesco",
+    "numberDogs": 30.75,
+    "totalCompetitors": 13,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2020,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 75,
+    "totalCompetitors": 5,
+    "division": "M",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 2,
+    "year": 2020,
+    "firstName": "Miki",
+    "lastName": "Sudo",
+    "numberDogs": 48.5,
+    "totalCompetitors": 5,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2019,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 71,
+    "totalCompetitors": 17,
+    "division": "M",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 2,
+    "year": 2019,
+    "firstName": "Miki",
+    "lastName": "Sudo",
+    "numberDogs": 31,
+    "totalCompetitors": 15,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2018,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 74,
+    "totalCompetitors": 21,
+    "division": "M",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 2,
+    "year": 2018,
+    "firstName": "Miki",
+    "lastName": "Sudo",
+    "numberDogs": 37,
+    "totalCompetitors": 18,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2017,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 72,
+    "totalCompetitors": 21,
+    "division": "M",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 2,
+    "year": 2017,
+    "firstName": "Miki",
+    "lastName": "Sudo",
+    "numberDogs": 41,
+    "totalCompetitors": 18,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2016,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 70,
+    "totalCompetitors": 16,
+    "division": "M",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 2,
+    "year": 2016,
+    "firstName": "Miki",
+    "lastName": "Sudo",
+    "numberDogs": 38,
+    "totalCompetitors": 15,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 4,
+    "year": 2015,
+    "firstName": "Matthew",
+    "lastName": "Stonie",
+    "numberDogs": 62,
+    "totalCompetitors": 16,
+    "division": "M",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 2,
+    "year": 2015,
+    "firstName": "Miki",
+    "lastName": "Sudo",
+    "numberDogs": 38,
+    "totalCompetitors": 16,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2014,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 61,
+    "totalCompetitors": 16,
+    "division": "M",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 2,
+    "year": 2014,
+    "firstName": "Miki",
+    "lastName": "Sudo",
+    "numberDogs": 34,
+    "totalCompetitors": 13,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2013,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 69,
+    "totalCompetitors": 16,
+    "division": "M",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 5,
+    "year": 2013,
+    "firstName": "Sonya",
+    "lastName": "Thomas",
+    "numberDogs": 36.75,
+    "totalCompetitors": 9,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2012,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 68,
+    "totalCompetitors": 15,
+    "division": "M",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 5,
+    "year": 2012,
+    "firstName": "Sonya",
+    "lastName": "Thomas",
+    "numberDogs": 45,
+    "totalCompetitors": 14,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2011,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 62,
+    "totalCompetitors": 16,
+    "division": "M",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 5,
+    "year": 2011,
+    "firstName": "Sonya",
+    "lastName": "Thomas",
+    "numberDogs": 40,
+    "totalCompetitors": 9,
+    "division": "F",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2010,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 54,
+    "totalCompetitors": 16,
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2009,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 68,
+    "totalCompetitors": 19,
+    "division": "",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2008,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 59,
+    "totalCompetitors": 21,
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 1,
+    "year": 2007,
+    "firstName": "Joey",
+    "lastName": "Chestnut",
+    "numberDogs": 66,
+    "totalCompetitors": 17,
+    "division": "",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 6,
+    "year": 2006,
+    "firstName": "Takeru",
+    "lastName": "Kobayashi",
+    "numberDogs": 53.75,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 6,
+    "year": 2005,
+    "firstName": "Takeru",
+    "lastName": "Kobayashi",
+    "numberDogs": 49,
+    "totalCompetitors": 16,
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 6,
+    "year": 2004,
+    "firstName": "Takeru",
+    "lastName": "Kobayashi",
+    "numberDogs": 53.5,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 6,
+    "year": 2003,
+    "firstName": "Takeru",
+    "lastName": "Kobayashi",
+    "numberDogs": 44.5,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 6,
+    "year": 2002,
+    "firstName": "Takeru",
+    "lastName": "Kobayashi",
+    "numberDogs": 50,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 6,
+    "year": 2001,
+    "firstName": "Takeru",
+    "lastName": "Kobayashi",
+    "numberDogs": 50,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 7,
+    "year": 2000,
+    "firstName": "Kazutoyo",
+    "lastName": "Arai",
+    "numberDogs": 25,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 8,
+    "year": 1999,
+    "firstName": "Steve",
+    "lastName": "Keiner",
+    "numberDogs": 21.5,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 9,
+    "year": 1998,
+    "firstName": "Hirofumi",
+    "lastName": "Nakajima",
+    "numberDogs": 19,
+    "totalCompetitors": 16,
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 9,
+    "year": 1997,
+    "firstName": "Hirofumi",
+    "lastName": "Nakajima",
+    "numberDogs": 24.5,
+    "totalCompetitors": 23,
+    "division": "",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 10,
+    "year": 1996,
+    "firstName": "Ed",
+    "lastName": "Krachie",
+    "numberDogs": 22,
+    "totalCompetitors": 20,
+    "division": "",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 10,
+    "year": 1995,
+    "firstName": "Ed",
+    "lastName": "Krachie",
+    "numberDogs": 19.5,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 11,
+    "year": 1994,
+    "firstName": "Mike",
+    "lastName": "DeVito",
+    "numberDogs": 20,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 11,
+    "year": 1993,
+    "firstName": "Mike",
+    "lastName": "DeVito",
+    "numberDogs": 17,
+    "totalCompetitors": 20,
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 12,
+    "year": 1992,
+    "firstName": "Frank",
+    "lastName": "Dellarosa",
+    "numberDogs": 19,
+    "totalCompetitors": 18,
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 12,
+    "year": 1991,
+    "firstName": "Frank",
+    "lastName": "Dellarosa",
+    "numberDogs": 21,
+    "totalCompetitors": 20,
+    "division": "",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 11,
+    "year": 1990,
+    "firstName": "Mike",
+    "lastName": "DeVito",
+    "numberDogs": 15,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 13,
+    "year": 1990,
+    "firstName": "Jay",
+    "lastName": "Green",
+    "numberDogs": 15,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 13,
+    "year": 1989,
+    "firstName": "Jay",
+    "lastName": "Green",
+    "numberDogs": 15.5,
+    "totalCompetitors": 24,
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 13,
+    "year": 1988,
+    "firstName": "Jay",
+    "lastName": "Green",
+    "numberDogs": 10,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 14,
+    "year": 1987,
+    "firstName": "Don",
+    "lastName": "Wolfman",
+    "numberDogs": 13.5,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 15,
+    "year": 1986,
+    "firstName": "Mark",
+    "lastName": "Heller",
+    "numberDogs": 15.5,
+    "totalCompetitors": 24,
+    "division": "",
+    "newRecord": "TRUE"
+  },
+  {
+    "winnerID": 16,
+    "year": 1985,
+    "firstName": "Oscar",
+    "lastName": "Rodriguez",
+    "numberDogs": 11.75,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 17,
+    "year": 1984,
+    "firstName": "Birgit",
+    "lastName": "Felden",
+    "numberDogs": 9.5,
+    "totalCompetitors": 24,
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 18,
+    "year": 1983,
+    "firstName": "Emil",
+    "lastName": "Gomez",
+    "numberDogs": 10.5,
+    "totalCompetitors": 11,
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 19,
+    "year": 1982,
+    "firstName": "Steven",
+    "lastName": "Abrams",
+    "numberDogs": 11,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 20,
+    "year": 1981,
+    "firstName": "Thomas",
+    "lastName": "DeBerry",
+    "numberDogs": 11,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 21,
+    "year": 1980,
+    "firstName": "Joey",
+    "lastName": "Baldini",
+    "numberDogs": 9.75,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 22,
+    "year": 1980,
+    "firstName": "Paul",
+    "lastName": "Siederman",
+    "numberDogs": 9.75,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 23,
+    "year": 1979,
+    "firstName": "Luther",
+    "lastName": "Frazier",
+    "numberDogs": 10,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 24,
+    "year": 1979,
+    "firstName": "Jim",
+    "lastName": "Mattner",
+    "numberDogs": 10,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  },
+  {
+    "winnerID": 25,
+    "year": 1974,
+    "firstName": "Roberto",
+    "lastName": "Muriel",
+    "numberDogs": 10,
+    "totalCompetitors": "",
+    "division": "",
+    "newRecord": "FALSE"
+  }
+]

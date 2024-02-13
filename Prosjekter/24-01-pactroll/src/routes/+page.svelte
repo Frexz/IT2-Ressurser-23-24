@@ -7,14 +7,19 @@
     let BREDDE = RUTELENGDE * KOLONNER
     let HOYDE = RUTELENGDE * RADER
     
+    class SpillObjekt {
+        constructor(x, y, farge) {
+            this.x = x
+            this.y = y
+            this.farge = farge
+        }
+    }
 
-    class Troll {
-        constructor() {
-            this.x = RUTELENGDE * 19
-            this.y = RUTELENGDE * 10
+    class Troll extends SpillObjekt{
+        constructor(x, y, farge) {
+            super(x, y, farge)
             this.vx = 0
             this.vy = 0
-            this.farge = "lime"
         }
 
         move() {
@@ -24,39 +29,55 @@
 
     }
 
-    class Mat {
-        constructor() {
-            this.x = RUTELENGDE * Math.floor(KOLONNER*Math.random())
-            this.y = RUTELENGDE * Math.floor(RADER*Math.random())
-            this.farge = "yellow"
+    class Mat extends SpillObjekt{
+        constructor(x, y, farge) {
+            super(x, y, farge)
+
+            while (this.sjekkSammePosisjon()) {
+                this.x = RUTELENGDE * Math.floor(KOLONNER*Math.random())
+                this.y = RUTELENGDE * Math.floor(RADER*Math.random())
+            }
+        }
+
+        sjekkSammePosisjon() {
+            for (const element of elementer) {
+                if (this.x == element.x && this.y == element.y) {
+                    return true
+                }
+            }
+
+            return false
         }
     }
 
-    class Hindring {
-        constructor(x, y) {
-            this.x = x
-            this.y = y
-            this.farge = "grey"
+    class Hindring extends SpillObjekt{
+        constructor(x, y, farge) {
+            super(x, y, farge)
         }
     }
 
     let canvas
     let ctx
     let id
+    let dt = 150
 
     let poeng = 0
     let gameOver = false
-    let troll = new Troll()
+    let troll = new Troll(RUTELENGDE*19, RUTELENGDE*10, "lime")
     let elementer = [troll]
 
     for (let i = 0; i < 3; i++) {
-        elementer.push(new Mat())
+        elementer.push(new Mat(
+            RUTELENGDE * Math.floor(KOLONNER*Math.random()),
+            RUTELENGDE * Math.floor(RADER*Math.random()),
+            "yellow"
+        ))
     }
 
     
     onMount(() => {
         ctx = canvas.getContext("2d")
-        id = setInterval(() => update(ctx), 150)
+        id = setInterval(() => update(ctx), dt)
     })
 
     function update(ctx) {
@@ -125,8 +146,15 @@
         poeng++
 
         elementer = elementer.filter((mat) => mat != matbit)
-        elementer.push(new Hindring(matbit.x, matbit.y))
-        elementer.push(new Mat())
+        elementer.push(new Hindring(matbit.x, matbit.y, "grey"))
+        elementer.push(new Mat(
+            RUTELENGDE * Math.floor(KOLONNER*Math.random()),
+            RUTELENGDE * Math.floor(RADER*Math.random()),
+            "yellow"
+        ))
+        dt -= 5
+        clearInterval(id)
+        id = setInterval(() => update(ctx), dt)
     }
 
 

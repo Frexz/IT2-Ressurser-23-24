@@ -1,0 +1,17 @@
+[
+    {
+        "navn": "Nicaragua",
+        "hovedstad": "Managua",
+        "folketall": 6.8,
+        "areal": 130000,
+        "flagg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
+    },
+
+    {
+        "navn": "Norge",
+        "hovedstad": "Oslo",
+        "folketall": 5.4,
+        "areal": 385000,
+        "flagg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png"
+    }
+]
