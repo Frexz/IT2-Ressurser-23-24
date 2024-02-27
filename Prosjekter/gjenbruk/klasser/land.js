@@ -10,3 +10,17 @@ let land = [
     {"name": "Turkey", "population": 84339067},
     {"name": "Japan", "population": 126476461},
 ]
+
+land.sort((a, b) => {
+    return a.population - b.population
+})
+
+let three = []
+
+land.forEach((element, index) => {
+    if (index < 3) {
+        three.push(element.name)
+    }
+})
+
+console.log(three)
