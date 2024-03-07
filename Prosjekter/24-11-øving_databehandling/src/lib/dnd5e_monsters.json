@@ -1,0 +1,2918 @@
+[
+{
+"Name": "Aboleth",
+"Size": "Large",
+"Type": "aberration",
+"HP": 135,
+"Armor": 17,
+"Speed": "10 ft., swim 40 ft.",
+"CR": 10
+},
+{
+"Name": "Acolyte",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 9,
+"Armor": 10,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Adult Black Dragon",
+"Size": "Huge",
+"Type": "dragon",
+"HP": 195,
+"Armor": 19,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 14
+},
+{
+"Name": "Adult Blue Dragon",
+"Size": "Huge",
+"Type": "dragon",
+"HP": 225,
+"Armor": 19,
+"Speed": "40 ft., burrow 30 ft., fly 80 ft.",
+"CR": 16
+},
+{
+"Name": "Adult Brass Dragon",
+"Size": "Huge",
+"Type": "dragon",
+"HP": 172,
+"Armor": 18,
+"Speed": "40 ft., burrow 40 ft., fly 80 ft.",
+"CR": 13
+},
+{
+"Name": "Adult Bronze Dragon",
+"Size": "Huge",
+"Type": "dragon",
+"HP": 212,
+"Armor": 19,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 15
+},
+{
+"Name": "Adult Copper Dragon",
+"Size": "Huge",
+"Type": "dragon",
+"HP": 184,
+"Armor": 18,
+"Speed": "40 ft., climb 40 ft., fly 80 ft.",
+"CR": 14
+},
+{
+"Name": "Adult Gold Dragon",
+"Size": "Huge",
+"Type": "dragon",
+"HP": 256,
+"Armor": 19,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 17
+},
+{
+"Name": "Adult Green Dragon",
+"Size": "Huge",
+"Type": "dragon",
+"HP": 207,
+"Armor": 19,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 15
+},
+{
+"Name": "Adult Red Dragon",
+"Size": "Huge",
+"Type": "dragon",
+"HP": 256,
+"Armor": 19,
+"Speed": "40 ft., climb 40 ft., fly 80 ft.",
+"CR": 17
+},
+{
+"Name": "Adult Silver Dragon",
+"Size": "Huge",
+"Type": "dragon",
+"HP": 243,
+"Armor": 19,
+"Speed": "40 ft., fly 80 ft.",
+"CR": 16
+},
+{
+"Name": "Adult White Dragon",
+"Size": "Huge",
+"Type": "dragon",
+"HP": 200,
+"Armor": 18,
+"Speed": "40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.",
+"CR": 13
+},
+{
+"Name": "Air Elemental",
+"Size": "Large",
+"Type": "elemental",
+"HP": 90,
+"Armor": 15,
+"Speed": "0 ft., fly 90 ft. (hover)",
+"CR": 5
+},
+{
+"Name": "Ancient Black Dragon",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 367,
+"Armor": 22,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 21
+},
+{
+"Name": "Ancient Blue Dragon",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 481,
+"Armor": 22,
+"Speed": "40 ft., burrow 40 ft., fly 80 ft.",
+"CR": 23
+},
+{
+"Name": "Ancient Brass Dragon",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 297,
+"Armor": 20,
+"Speed": "40 ft., burrow 40 ft., fly 80 ft.",
+"CR": 20
+},
+{
+"Name": "Ancient Bronze Dragon",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 444,
+"Armor": 22,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 22
+},
+{
+"Name": "Ancient Copper Dragon",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 350,
+"Armor": 21,
+"Speed": "40 ft., climb 40 ft., fly 80 ft.",
+"CR": 21
+},
+{
+"Name": "Ancient Gold Dragon",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 546,
+"Armor": 22,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 24
+},
+{
+"Name": "Ancient Green Dragon",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 385,
+"Armor": 21,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 22
+},
+{
+"Name": "Ancient Red Dragon",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 546,
+"Armor": 22,
+"Speed": "40 ft., climb 40 ft., fly 80 ft.",
+"CR": 24
+},
+{
+"Name": "Ancient Silver Dragon",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 487,
+"Armor": 22,
+"Speed": "40 ft., fly 80 ft.",
+"CR": 23
+},
+{
+"Name": "Ancient White Dragon",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 333,
+"Armor": 20,
+"Speed": "40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.",
+"CR": 20
+},
+{
+"Name": "Androsphinx",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 199,
+"Armor": 17,
+"Speed": "40 ft., fly 60 ft.",
+"CR": 17
+},
+{
+"Name": "Animated Armor",
+"Size": "Medium",
+"Type": "construct",
+"HP": 33,
+"Armor": 18,
+"Speed": "25 ft.",
+"CR": 1
+},
+{
+"Name": "Ankheg",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 39,
+"Armor": 14,
+"Speed": "30 ft., burrow 10 ft.",
+"CR": 2
+},
+{
+"Name": "Ape",
+"Size": "Medium",
+"Type": "beast",
+"HP": 19,
+"Armor": 12,
+"Speed": "30 ft., climb 30 ft.",
+"CR": 1
+},
+{
+"Name": "Archmage",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 99,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 12
+},
+{
+"Name": "Assassin",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 78,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 8
+},
+{
+"Name": "Awakened Shrub",
+"Size": "Small",
+"Type": "plant",
+"HP": 10,
+"Armor": 9,
+"Speed": "20 ft.",
+"CR": 0
+},
+{
+"Name": "Awakened Tree",
+"Size": "Huge",
+"Type": "plant",
+"HP": 59,
+"Armor": 13,
+"Speed": "20 ft.",
+"CR": 2
+},
+{
+"Name": "Axe Beak",
+"Size": "Large",
+"Type": "beast",
+"HP": 19,
+"Armor": 11,
+"Speed": "50 ft.",
+"CR": 1
+},
+{
+"Name": "Azer",
+"Size": "Medium",
+"Type": "elemental",
+"HP": 39,
+"Armor": 17,
+"Speed": "30 ft.",
+"CR": 2
+},
+{
+"Name": "Baboon",
+"Size": "Small",
+"Type": "beast",
+"HP": 3,
+"Armor": 12,
+"Speed": "30 ft., climb 30 ft.",
+"CR": 0
+},
+{
+"Name": "Badger",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 3,
+"Armor": 10,
+"Speed": "20 ft., burrow 5 ft.",
+"CR": 0
+},
+{
+"Name": "Balor",
+"Size": "Huge",
+"Type": "fiend (demon)",
+"HP": 262,
+"Armor": 19,
+"Speed": "40 ft., fly 80 ft.",
+"CR": 19
+},
+{
+"Name": "Bandit",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 11,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Bandit Captain",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 65,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 2
+},
+{
+"Name": "Barbed Devil",
+"Size": "Medium",
+"Type": "fiend (devil)",
+"HP": 110,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 5
+},
+{
+"Name": "Basilisk",
+"Size": "Medium",
+"Type": "monstrosity",
+"HP": 52,
+"Armor": 15,
+"Speed": "20 ft.",
+"CR": 3
+},
+{
+"Name": "Bat",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 12,
+"Speed": "5 ft., fly 30 ft.",
+"CR": 0
+},
+{
+"Name": "Bearded Devil",
+"Size": "Medium",
+"Type": "fiend (devil)",
+"HP": 52,
+"Armor": 13,
+"Speed": "30 ft.",
+"CR": 3
+},
+{
+"Name": "Behir",
+"Size": "Huge",
+"Type": "monstrosity",
+"HP": 168,
+"Armor": 17,
+"Speed": "50 ft., climb 40 ft.",
+"CR": 11
+},
+{
+"Name": "Berserker",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 67,
+"Armor": 13,
+"Speed": "30 ft.",
+"CR": 2
+},
+{
+"Name": "Black Bear",
+"Size": "Medium",
+"Type": "beast",
+"HP": 19,
+"Armor": 11,
+"Speed": "40 ft., climb 30 ft.",
+"CR": 1
+},
+{
+"Name": "Black Dragon Wyrmling",
+"Size": "Medium",
+"Type": "dragon",
+"HP": 33,
+"Armor": 17,
+"Speed": "30 ft., fly 60 ft., swim 30 ft.",
+"CR": 2
+},
+{
+"Name": "Black Pudding",
+"Size": "Large",
+"Type": "ooze",
+"HP": 85,
+"Armor": 7,
+"Speed": "20 ft., climb 20 ft.",
+"CR": 4
+},
+{
+"Name": "Blink Dog",
+"Size": "Medium",
+"Type": "fey",
+"HP": 22,
+"Armor": 13,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Blood Hawk",
+"Size": "Small",
+"Type": "beast",
+"HP": 7,
+"Armor": 12,
+"Speed": "10 ft., fly 60 ft.",
+"CR": 1
+},
+{
+"Name": "Blue Dragon Wyrmling",
+"Size": "Medium",
+"Type": "dragon",
+"HP": 52,
+"Armor": 17,
+"Speed": "30 ft., burrow 15 ft., fly 60 ft.",
+"CR": 3
+},
+{
+"Name": "Boar",
+"Size": "Medium",
+"Type": "beast",
+"HP": 11,
+"Armor": 11,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Bone Devil",
+"Size": "Large",
+"Type": "fiend (devil)",
+"HP": 142,
+"Armor": 19,
+"Speed": "40 ft., fly 40 ft.",
+"CR": 9
+},
+{
+"Name": "Brass Dragon Wyrmling",
+"Size": "Medium",
+"Type": "dragon",
+"HP": 16,
+"Armor": 16,
+"Speed": "30 ft., burrow 15 ft., fly 60 ft.",
+"CR": 1
+},
+{
+"Name": "Bronze Dragon Wyrmling",
+"Size": "Medium",
+"Type": "dragon",
+"HP": 32,
+"Armor": 17,
+"Speed": "30 ft., fly 60 ft., swim 30 ft.",
+"CR": 2
+},
+{
+"Name": "Brown Bear",
+"Size": "Large",
+"Type": "beast",
+"HP": 34,
+"Armor": 11,
+"Speed": "40 ft., climb 30 ft.",
+"CR": 1
+},
+{
+"Name": "Bugbear",
+"Size": "Medium",
+"Type": "humanoid (goblinoid)",
+"HP": 27,
+"Armor": 16,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Bulette",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 94,
+"Armor": 17,
+"Speed": "40 ft., burrow 40 ft.",
+"CR": 5
+},
+{
+"Name": "Camel",
+"Size": "Large",
+"Type": "beast",
+"HP": 15,
+"Armor": 9,
+"Speed": "50 ft.",
+"CR": 1
+},
+{
+"Name": "Cat",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 2,
+"Armor": 12,
+"Speed": "40 ft., climb 30 ft.",
+"CR": 0
+},
+{
+"Name": "Centaur",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 45,
+"Armor": 12,
+"Speed": "50 ft.",
+"CR": 2
+},
+{
+"Name": "Chain Devil",
+"Size": "Medium",
+"Type": "fiend (devil)",
+"HP": 85,
+"Armor": 16,
+"Speed": "30 ft.",
+"CR": 8
+},
+{
+"Name": "Chimera",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 114,
+"Armor": 14,
+"Speed": "30 ft., fly 60 ft.",
+"CR": 6
+},
+{
+"Name": "Chuul",
+"Size": "Large",
+"Type": "aberration",
+"HP": 93,
+"Armor": 16,
+"Speed": "30 ft., swim 30 ft.",
+"CR": 4
+},
+{
+"Name": "Clay Golem",
+"Size": "Large",
+"Type": "construct",
+"HP": 133,
+"Armor": 14,
+"Speed": "20 ft.",
+"CR": 9
+},
+{
+"Name": "Cloaker",
+"Size": "Large",
+"Type": "aberration",
+"HP": 78,
+"Armor": 14,
+"Speed": "10 ft., fly 40 ft.",
+"CR": 8
+},
+{
+"Name": "Cloud Giant",
+"Size": "Huge",
+"Type": "giant",
+"HP": 200,
+"Armor": 14,
+"Speed": "40 ft.",
+"CR": 9
+},
+{
+"Name": "Cockatrice",
+"Size": "Small",
+"Type": "monstrosity",
+"HP": 27,
+"Armor": 11,
+"Speed": "20 ft., fly 40 ft.",
+"CR": 1
+},
+{
+"Name": "Commoner",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 4,
+"Armor": 10,
+"Speed": "30 ft.",
+"CR": 0
+},
+{
+"Name": "Constrictor Snake",
+"Size": "Large",
+"Type": "beast",
+"HP": 13,
+"Armor": 12,
+"Speed": "30 ft., swim 30 ft.",
+"CR": 1
+},
+{
+"Name": "Copper Dragon Wyrmling",
+"Size": "Medium",
+"Type": "dragon",
+"HP": 22,
+"Armor": 16,
+"Speed": "30 ft., climb 30 ft., fly 60 ft.",
+"CR": 1
+},
+{
+"Name": "Couatl",
+"Size": "Medium",
+"Type": "celestial",
+"HP": 97,
+"Armor": 19,
+"Speed": "30 ft., fly 90 ft.",
+"CR": 4
+},
+{
+"Name": "Crab",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 2,
+"Armor": 11,
+"Speed": "20 ft., swim 20 ft.",
+"CR": 0
+},
+{
+"Name": "Crocodile",
+"Size": "Large",
+"Type": "beast",
+"HP": 19,
+"Armor": 12,
+"Speed": "20 ft., swim 30 ft.",
+"CR": 1
+},
+{
+"Name": "Cult Fanatic",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 33,
+"Armor": 13,
+"Speed": "30 ft.",
+"CR": 2
+},
+{
+"Name": "Cultist",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 9,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Darkmantle",
+"Size": "Small",
+"Type": "monstrosity",
+"HP": 22,
+"Armor": 11,
+"Speed": "10 ft., fly 30 ft.",
+"CR": 1
+},
+{
+"Name": "Death Dog",
+"Size": "Medium",
+"Type": "monstrosity",
+"HP": 39,
+"Armor": 12,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Deep Gnome (Svirfneblin)",
+"Size": "Small",
+"Type": "humanoid (gnome)",
+"HP": 16,
+"Armor": 15,
+"Speed": "20 ft.",
+"CR": 1
+},
+{
+"Name": "Deer",
+"Size": "Medium",
+"Type": "beast",
+"HP": 4,
+"Armor": 13,
+"Speed": "50 ft.",
+"CR": 0
+},
+{
+"Name": "Deva",
+"Size": "Medium",
+"Type": "celestial",
+"HP": 136,
+"Armor": 17,
+"Speed": "30 ft., fly 90 ft.",
+"CR": 10
+},
+{
+"Name": "Dire Wolf",
+"Size": "Large",
+"Type": "beast",
+"HP": 37,
+"Armor": 14,
+"Speed": "50 ft.",
+"CR": 1
+},
+{
+"Name": "Diseased Giant Rat",
+"Size": "Small",
+"Type": "beast",
+"HP": 7,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Djinni",
+"Size": "Large",
+"Type": "elemental",
+"HP": 161,
+"Armor": 17,
+"Speed": "30 ft., fly 90 ft.",
+"CR": 11
+},
+{
+"Name": "Doppelganger",
+"Size": "Medium",
+"Type": "monstrosity (shapechanger)",
+"HP": 52,
+"Armor": 14,
+"Speed": "30 ft.",
+"CR": 3
+},
+{
+"Name": "Draft Horse",
+"Size": "Large",
+"Type": "beast",
+"HP": 19,
+"Armor": 10,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Dragon Turtle",
+"Size": "Gargantuan",
+"Type": "dragon",
+"HP": 341,
+"Armor": 20,
+"Speed": "20 ft., swim 40 ft.",
+"CR": 17
+},
+{
+"Name": "Dretch",
+"Size": "Small",
+"Type": "fiend (demon)",
+"HP": 18,
+"Armor": 11,
+"Speed": "20 ft.",
+"CR": 1
+},
+{
+"Name": "Drider",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 123,
+"Armor": 19,
+"Speed": "30 ft., climb 30 ft.",
+"CR": 6
+},
+{
+"Name": "Drow",
+"Size": "Medium",
+"Type": "humanoid (elf)",
+"HP": 13,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Druid",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 27,
+"Armor": 11,
+"Speed": "30 ft.",
+"CR": 2
+},
+{
+"Name": "Dryad",
+"Size": "Medium",
+"Type": "fey",
+"HP": 22,
+"Armor": 11,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Duergar",
+"Size": "Medium",
+"Type": "humanoid (dwarf)",
+"HP": 26,
+"Armor": 16,
+"Speed": "25 ft.",
+"CR": 1
+},
+{
+"Name": "Dust Mephit",
+"Size": "Small",
+"Type": "elemental",
+"HP": 17,
+"Armor": 12,
+"Speed": "30 ft., fly 30 ft.",
+"CR": 1
+},
+{
+"Name": "Eagle",
+"Size": "Small",
+"Type": "beast",
+"HP": 3,
+"Armor": 12,
+"Speed": "10 ft., fly 60 ft.",
+"CR": 0
+},
+{
+"Name": "Earth Elemental",
+"Size": "Large",
+"Type": "elemental",
+"HP": 126,
+"Armor": 17,
+"Speed": "30 ft., burrow 30 ft.",
+"CR": 5
+},
+{
+"Name": "Efreeti",
+"Size": "Large",
+"Type": "elemental",
+"HP": 200,
+"Armor": 17,
+"Speed": "40 ft., fly 60 ft.",
+"CR": 11
+},
+{
+"Name": "Elephant",
+"Size": "Huge",
+"Type": "beast",
+"HP": 76,
+"Armor": 12,
+"Speed": "40 ft.",
+"CR": 4
+},
+{
+"Name": "Elk",
+"Size": "Large",
+"Type": "beast",
+"HP": 13,
+"Armor": 10,
+"Speed": "50 ft.",
+"CR": 1
+},
+{
+"Name": "Erinyes",
+"Size": "Medium",
+"Type": "fiend (devil)",
+"HP": 153,
+"Armor": 18,
+"Speed": "30 ft., fly 60 ft.",
+"CR": 12
+},
+{
+"Name": "Ettercap",
+"Size": "Medium",
+"Type": "monstrosity",
+"HP": 44,
+"Armor": 13,
+"Speed": "30 ft., climb 30 ft.",
+"CR": 2
+},
+{
+"Name": "Ettin",
+"Size": "Large",
+"Type": "giant",
+"HP": 85,
+"Armor": 12,
+"Speed": "40 ft.",
+"CR": 4
+},
+{
+"Name": "Fire Elemental",
+"Size": "Large",
+"Type": "elemental",
+"HP": 102,
+"Armor": 13,
+"Speed": "50 ft.",
+"CR": 5
+},
+{
+"Name": "Fire Giant",
+"Size": "Huge",
+"Type": "giant",
+"HP": 162,
+"Armor": 18,
+"Speed": "30 ft.",
+"CR": 9
+},
+{
+"Name": "Flesh Golem",
+"Size": "Medium",
+"Type": "construct",
+"HP": 93,
+"Armor": 9,
+"Speed": "30 ft.",
+"CR": 5
+},
+{
+"Name": "Flying Snake",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 5,
+"Armor": 14,
+"Speed": "30 ft., fly 60 ft., swim 30 ft.",
+"CR": 1
+},
+{
+"Name": "Flying Sword",
+"Size": "Small",
+"Type": "construct",
+"HP": 17,
+"Armor": 17,
+"Speed": "0 ft., fly 50 ft. It can hover.",
+"CR": 1
+},
+{
+"Name": "Frog",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 11,
+"Speed": "20 ft., swim 20 ft.",
+"CR": 0
+},
+{
+"Name": "Frost Giant",
+"Size": "Huge",
+"Type": "giant",
+"HP": 138,
+"Armor": 15,
+"Speed": "40 ft.",
+"CR": 8
+},
+{
+"Name": "Gargoyle",
+"Size": "Medium",
+"Type": "elemental",
+"HP": 52,
+"Armor": 15,
+"Speed": "30 ft., fly 60 ft.",
+"CR": 2
+},
+{
+"Name": "Gelatinous Cube",
+"Size": "Large",
+"Type": "ooze",
+"HP": 84,
+"Armor": 6,
+"Speed": "15 ft.",
+"CR": 2
+},
+{
+"Name": "Ghast",
+"Size": "Medium",
+"Type": "undead",
+"HP": 36,
+"Armor": 13,
+"Speed": "30 ft.",
+"CR": 2
+},
+{
+"Name": "Ghost",
+"Size": "Medium",
+"Type": "undead",
+"HP": 45,
+"Armor": 11,
+"Speed": "0 ft., fly 40 ft. It can hover.",
+"CR": 4
+},
+{
+"Name": "Ghoul",
+"Size": "Medium",
+"Type": "undead",
+"HP": 22,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Ape",
+"Size": "Huge",
+"Type": "beast",
+"HP": 157,
+"Armor": 12,
+"Speed": "40 ft., climb 40 ft.",
+"CR": 7
+},
+{
+"Name": "Giant Badger",
+"Size": "Medium",
+"Type": "beast",
+"HP": 13,
+"Armor": 10,
+"Speed": "30 ft., burrow 10 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Bat",
+"Size": "Large",
+"Type": "beast",
+"HP": 22,
+"Armor": 13,
+"Speed": "10 ft., fly 60 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Boar",
+"Size": "Large",
+"Type": "beast",
+"HP": 42,
+"Armor": 12,
+"Speed": "40 ft.",
+"CR": 2
+},
+{
+"Name": "Giant Centipede",
+"Size": "Small",
+"Type": "beast",
+"HP": 4,
+"Armor": 13,
+"Speed": "30 ft., climb 30 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Constrictor Snake",
+"Size": "Huge",
+"Type": "beast",
+"HP": 60,
+"Armor": 12,
+"Speed": "30 ft., swim 30 ft.",
+"CR": 2
+},
+{
+"Name": "Giant Crab",
+"Size": "Medium",
+"Type": "beast",
+"HP": 13,
+"Armor": 15,
+"Speed": "30 ft., swim 30 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Crocodile",
+"Size": "Huge",
+"Type": "beast",
+"HP": 85,
+"Armor": 14,
+"Speed": "30 ft., swim 50 ft.",
+"CR": 5
+},
+{
+"Name": "Giant Eagle",
+"Size": "Large",
+"Type": "beast",
+"HP": 26,
+"Armor": 13,
+"Speed": "10 ft., fly 80 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Elk",
+"Size": "Huge",
+"Type": "beast",
+"HP": 42,
+"Armor": 14,
+"Speed": "60 ft.",
+"CR": 2
+},
+{
+"Name": "Giant Fire Beetle",
+"Size": "Small",
+"Type": "beast",
+"HP": 4,
+"Armor": 13,
+"Speed": "30 ft.",
+"CR": 0
+},
+{
+"Name": "Giant Frog",
+"Size": "Medium",
+"Type": "beast",
+"HP": 18,
+"Armor": 11,
+"Speed": "30 ft., swim 30 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Goat",
+"Size": "Large",
+"Type": "beast",
+"HP": 19,
+"Armor": 11,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Hyena",
+"Size": "Large",
+"Type": "beast",
+"HP": 45,
+"Armor": 12,
+"Speed": "50 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Lizard",
+"Size": "Large",
+"Type": "beast",
+"HP": 19,
+"Armor": 12,
+"Speed": "30 ft., climb 30 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Octopus",
+"Size": "Large",
+"Type": "beast",
+"HP": 52,
+"Armor": 11,
+"Speed": "10 ft., swim 60 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Owl",
+"Size": "Large",
+"Type": "beast",
+"HP": 19,
+"Armor": 12,
+"Speed": "5 ft., fly 60 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Poisonous Snake",
+"Size": "Medium",
+"Type": "beast",
+"HP": 11,
+"Armor": 14,
+"Speed": "30 ft., swim 30 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Rat",
+"Size": "Small",
+"Type": "beast",
+"HP": 7,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Scorpion",
+"Size": "Large",
+"Type": "beast",
+"HP": 52,
+"Armor": 15,
+"Speed": "40 ft.",
+"CR": 3
+},
+{
+"Name": "Giant Sea Horse",
+"Size": "Large",
+"Type": "beast",
+"HP": 16,
+"Armor": 13,
+"Speed": "0 ft., swim 40 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Shark",
+"Size": "Huge",
+"Type": "beast",
+"HP": 126,
+"Armor": 13,
+"Speed": "Swim 50 ft.",
+"CR": 5
+},
+{
+"Name": "Giant Spider",
+"Size": "Large",
+"Type": "beast",
+"HP": 26,
+"Armor": 14,
+"Speed": "30 ft., climb 30 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Toad",
+"Size": "Large",
+"Type": "beast",
+"HP": 39,
+"Armor": 11,
+"Speed": "20 ft., swim 40 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Vulture",
+"Size": "Large",
+"Type": "beast",
+"HP": 22,
+"Armor": 10,
+"Speed": "10 ft., fly 60 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Wasp",
+"Size": "Medium",
+"Type": "beast",
+"HP": 13,
+"Armor": 12,
+"Speed": "10 ft., fly 50 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Weasel",
+"Size": "Medium",
+"Type": "beast",
+"HP": 9,
+"Armor": 13,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Giant Wolf Spider",
+"Size": "Medium",
+"Type": "beast",
+"HP": 11,
+"Armor": 13,
+"Speed": "40 ft., climb 40 ft.",
+"CR": 1
+},
+{
+"Name": "Gibbering Mouther",
+"Size": "Medium",
+"Type": "aberration",
+"HP": 67,
+"Armor": 9,
+"Speed": "10 ft., swim 10 ft.",
+"CR": 2
+},
+{
+"Name": "Glabrezu",
+"Size": "Large",
+"Type": "fiend (demon)",
+"HP": 157,
+"Armor": 17,
+"Speed": "40 ft.",
+"CR": 9
+},
+{
+"Name": "Gladiator",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 112,
+"Armor": 16,
+"Speed": "30 ft.",
+"CR": 5
+},
+{
+"Name": "Gnoll",
+"Size": "Medium",
+"Type": "humanoid (gnoll)",
+"HP": 22,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Goat",
+"Size": "Medium",
+"Type": "beast",
+"HP": 4,
+"Armor": 10,
+"Speed": "40 ft.",
+"CR": 0
+},
+{
+"Name": "Goblin",
+"Size": "Small",
+"Type": "humanoid (goblinoid)",
+"HP": 7,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Gold Dragon Wyrmling",
+"Size": "Medium",
+"Type": "dragon",
+"HP": 60,
+"Armor": 17,
+"Speed": "30 ft., fly 60 ft., swim 30 ft.",
+"CR": 3
+},
+{
+"Name": "Gorgon",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 114,
+"Armor": 19,
+"Speed": "40 ft.",
+"CR": 5
+},
+{
+"Name": "Gray Ooze",
+"Size": "Medium",
+"Type": "ooze",
+"HP": 22,
+"Armor": 8,
+"Speed": "10 ft., climb 10 ft.",
+"CR": 1
+},
+{
+"Name": "Green Dragon Wyrmling",
+"Size": "Medium",
+"Type": "dragon",
+"HP": 38,
+"Armor": 17,
+"Speed": "30 ft., fly 60 ft., swim 30 ft.",
+"CR": 2
+},
+{
+"Name": "Green Hag",
+"Size": "Medium",
+"Type": "fey",
+"HP": 82,
+"Armor": 17,
+"Speed": "30 ft.",
+"CR": 3
+},
+{
+"Name": "Grick",
+"Size": "Medium",
+"Type": "monstrosity",
+"HP": 27,
+"Armor": 14,
+"Speed": "30 ft., climb 30 ft.",
+"CR": 2
+},
+{
+"Name": "Griffon",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 59,
+"Armor": 12,
+"Speed": "30 ft., fly 80 ft.",
+"CR": 2
+},
+{
+"Name": "Grimlock",
+"Size": "Medium",
+"Type": "humanoid (grimlock)",
+"HP": 11,
+"Armor": 11,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Guard",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 11,
+"Armor": 16,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Guardian Naga",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 127,
+"Armor": 18,
+"Speed": "40 ft.",
+"CR": 10
+},
+{
+"Name": "Gynosphinx",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 136,
+"Armor": 17,
+"Speed": "40 ft., fly 60 ft.",
+"CR": 11
+},
+{
+"Name": "Half-Red Dragon Veteran",
+"Size": "Medium",
+"Type": "humanoid (human)",
+"HP": 65,
+"Armor": 18,
+"Speed": "30 ft.",
+"CR": 5
+},
+{
+"Name": "Harpy",
+"Size": "Medium",
+"Type": "monstrosity",
+"HP": 38,
+"Armor": 11,
+"Speed": "20 ft., fly 40 ft.",
+"CR": 1
+},
+{
+"Name": "Hawk",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 13,
+"Speed": "10 ft., fly 60 ft.",
+"CR": 0
+},
+{
+"Name": "Hell Hound",
+"Size": "Medium",
+"Type": "fiend",
+"HP": 45,
+"Armor": 15,
+"Speed": "50 ft.",
+"CR": 3
+},
+{
+"Name": "Hezrou",
+"Size": "Large",
+"Type": "fiend (demon)",
+"HP": 136,
+"Armor": 16,
+"Speed": "30 ft.",
+"CR": 8
+},
+{
+"Name": "Hill Giant",
+"Size": "Huge",
+"Type": "giant",
+"HP": 105,
+"Armor": 13,
+"Speed": "40 ft.",
+"CR": 5
+},
+{
+"Name": "Hippogriff",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 19,
+"Armor": 11,
+"Speed": "40 ft, fly 60 ft.",
+"CR": 1
+},
+{
+"Name": "Hobgoblin",
+"Size": "Medium",
+"Type": "humanoid (goblinoid)",
+"HP": 11,
+"Armor": 18,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Homunculus",
+"Size": "Tiny",
+"Type": "construct",
+"HP": 5,
+"Armor": 13,
+"Speed": "20 ft., fly 40 ft.",
+"CR": 0
+},
+{
+"Name": "Horned Devil",
+"Size": "Large",
+"Type": "fiend (devil)",
+"HP": 178,
+"Armor": 18,
+"Speed": "20 ft., fly 60 ft.",
+"CR": 11
+},
+{
+"Name": "Hunter Shark",
+"Size": "Large",
+"Type": "beast",
+"HP": 45,
+"Armor": 12,
+"Speed": "Swim 40 ft.",
+"CR": 2
+},
+{
+"Name": "Hydra",
+"Size": "Huge",
+"Type": "monstrosity",
+"HP": 172,
+"Armor": 15,
+"Speed": "30 ft., swim 30 ft.",
+"CR": 8
+},
+{
+"Name": "Hyena",
+"Size": "Medium",
+"Type": "beast",
+"HP": 5,
+"Armor": 11,
+"Speed": "50 ft.",
+"CR": 0
+},
+{
+"Name": "Ice Devil",
+"Size": "Large",
+"Type": "fiend (devil)",
+"HP": 180,
+"Armor": 18,
+"Speed": "40 ft.",
+"CR": 14
+},
+{
+"Name": "Ice Mephit",
+"Size": "Small",
+"Type": "elemental",
+"HP": 21,
+"Armor": 11,
+"Speed": "30 ft., fly 30 ft.",
+"CR": 1
+},
+{
+"Name": "Imp",
+"Size": "Tiny",
+"Type": "fiend (devil",
+"HP": 10,
+"Armor": 13,
+"Speed": "20 ft., fly 40 ft.",
+"CR": 1
+},
+{
+"Name": "Incubus",
+"Size": "Medium",
+"Type": "Fiend (Shapechanger)",
+"HP": 66,
+"Armor": 15,
+"Speed": "30 ft., fly 60 ft.",
+"CR": 4
+},
+{
+"Name": "Invisible Stalker",
+"Size": "Medium",
+"Type": "elemental",
+"HP": 104,
+"Armor": 14,
+"Speed": "50 ft., fly 50 ft. (hover)",
+"CR": 6
+},
+{
+"Name": "Iron Golem",
+"Size": "Large",
+"Type": "construct",
+"HP": 210,
+"Armor": 20,
+"Speed": "30 ft.",
+"CR": 16
+},
+{
+"Name": "Jackal",
+"Size": "Small",
+"Type": "beast",
+"HP": 3,
+"Armor": 12,
+"Speed": "40 ft.",
+"CR": 0
+},
+{
+"Name": "Killer Whale",
+"Size": "Huge",
+"Type": "beast",
+"HP": 90,
+"Armor": 12,
+"Speed": "Swim 60 ft.",
+"CR": 3
+},
+{
+"Name": "Knight",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 52,
+"Armor": 18,
+"Speed": "30 ft.",
+"CR": 3
+},
+{
+"Name": "Kobold",
+"Size": "Small",
+"Type": "humanoid (kobold)",
+"HP": 5,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Kraken",
+"Size": "Gargantuan",
+"Type": "monstrosity (titan)",
+"HP": 472,
+"Armor": 18,
+"Speed": "20 ft., swim 60 ft.",
+"CR": 23
+},
+{
+"Name": "Lamia",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 97,
+"Armor": 13,
+"Speed": "30 ft.",
+"CR": 4
+},
+{
+"Name": "Lemure",
+"Size": "Medium",
+"Type": "fiend (devil)",
+"HP": 13,
+"Armor": 7,
+"Speed": "15 ft.",
+"CR": 0
+},
+{
+"Name": "Lich",
+"Size": "Medium",
+"Type": "undead",
+"HP": 135,
+"Armor": 17,
+"Speed": "30 ft.",
+"CR": 21
+},
+{
+"Name": "Lion",
+"Size": "Large",
+"Type": "beast",
+"HP": 26,
+"Armor": 12,
+"Speed": "50 ft.",
+"CR": 1
+},
+{
+"Name": "Lizard",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 2,
+"Armor": 10,
+"Speed": "20 ft., climb 20 ft.",
+"CR": 0
+},
+{
+"Name": "Lizardfolk",
+"Size": "Medium",
+"Type": "humanoid (lizardfolk)",
+"HP": 22,
+"Armor": 15,
+"Speed": "30 ft., swim 30 ft.",
+"CR": 1
+},
+{
+"Name": "Mage",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 40,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 6
+},
+{
+"Name": "Magma Mephit",
+"Size": "Small",
+"Type": "elemental",
+"HP": 22,
+"Armor": 11,
+"Speed": "30 ft., fly 30 ft.",
+"CR": 1
+},
+{
+"Name": "Magmin",
+"Size": "Small",
+"Type": "elemental",
+"HP": 9,
+"Armor": 14,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Mammoth",
+"Size": "Huge",
+"Type": "beast",
+"HP": 126,
+"Armor": 13,
+"Speed": "40 ft.",
+"CR": 6
+},
+{
+"Name": "Manticore",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 68,
+"Armor": 14,
+"Speed": "30 ft., fly 50 ft.",
+"CR": 3
+},
+{
+"Name": "Marilith",
+"Size": "Large",
+"Type": "fiend (demon)",
+"HP": 189,
+"Armor": 18,
+"Speed": "40 ft.",
+"CR": 16
+},
+{
+"Name": "Mastiff",
+"Size": "Medium",
+"Type": "beast",
+"HP": 5,
+"Armor": 12,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Medusa",
+"Size": "Medium",
+"Type": "monstrosity",
+"HP": 127,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 6
+},
+{
+"Name": "Merfolk",
+"Size": "Medium",
+"Type": "humanoid (merfolk)",
+"HP": 11,
+"Armor": 11,
+"Speed": "10 ft., swim 40 ft.",
+"CR": 1
+},
+{
+"Name": "Merrow",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 45,
+"Armor": 13,
+"Speed": "10 ft., swim 40 ft.",
+"CR": 2
+},
+{
+"Name": "Mimic",
+"Size": "Medium",
+"Type": "monstrosity (shapechanger)",
+"HP": 58,
+"Armor": 12,
+"Speed": "15 ft.",
+"CR": 2
+},
+{
+"Name": "Minotaur",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 76,
+"Armor": 14,
+"Speed": "40 ft.",
+"CR": 3
+},
+{
+"Name": "Minotaur Skeleton",
+"Size": "Large",
+"Type": "undead",
+"HP": 67,
+"Armor": 12,
+"Speed": "40 ft.",
+"CR": 2
+},
+{
+"Name": "Mule",
+"Size": "Medium",
+"Type": "beast",
+"HP": 11,
+"Armor": 10,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Mummy",
+"Size": "Medium",
+"Type": "undead",
+"HP": 58,
+"Armor": 11,
+"Speed": "20 ft.",
+"CR": 3
+},
+{
+"Name": "Mummy Lord",
+"Size": "Medium",
+"Type": "undead",
+"HP": 97,
+"Armor": 17,
+"Speed": "20 ft.",
+"CR": 15
+},
+{
+"Name": "Nalfeshnee",
+"Size": "Large",
+"Type": "fiend (demon)",
+"HP": 184,
+"Armor": 18,
+"Speed": "20 ft., fly 30 ft.",
+"CR": 13
+},
+{
+"Name": "Night Hag",
+"Size": "Medium",
+"Type": "fiend",
+"HP": 112,
+"Armor": 17,
+"Speed": "30 ft.",
+"CR": 5
+},
+{
+"Name": "Nightmare",
+"Size": "Large",
+"Type": "fiend",
+"HP": 68,
+"Armor": 13,
+"Speed": "60 ft., fly 90 ft.",
+"CR": 3
+},
+{
+"Name": "Noble",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 9,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Ochre Jelly",
+"Size": "Large",
+"Type": "ooze",
+"HP": 45,
+"Armor": 8,
+"Speed": "10 ft., climb 10 ft.",
+"CR": 2
+},
+{
+"Name": "Octopus",
+"Size": "Small",
+"Type": "beast",
+"HP": 3,
+"Armor": 12,
+"Speed": "5 ft., swim 30 ft.",
+"CR": 0
+},
+{
+"Name": "Ogre",
+"Size": "Large",
+"Type": "giant",
+"HP": 59,
+"Armor": 11,
+"Speed": "40 ft.",
+"CR": 2
+},
+{
+"Name": "Ogre Zombie",
+"Size": "Large",
+"Type": "undead",
+"HP": 85,
+"Armor": 8,
+"Speed": "30 ft.",
+"CR": 2
+},
+{
+"Name": "Oni",
+"Size": "Large",
+"Type": "giant",
+"HP": 110,
+"Armor": 16,
+"Speed": "30 ft., fly 30 ft.",
+"CR": 7
+},
+{
+"Name": "Orc",
+"Size": "Medium",
+"Type": "humanoid (orc)",
+"HP": 15,
+"Armor": 13,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Otyugh",
+"Size": "Large",
+"Type": "aberration",
+"HP": 114,
+"Armor": 14,
+"Speed": "30 ft.",
+"CR": 5
+},
+{
+"Name": "Owl",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 11,
+"Speed": "5 ft., fly 60 ft.",
+"CR": 0
+},
+{
+"Name": "Owlbear",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 59,
+"Armor": 13,
+"Speed": "40 ft.",
+"CR": 3
+},
+{
+"Name": "Panther",
+"Size": "Medium",
+"Type": "beast",
+"HP": 13,
+"Armor": 12,
+"Speed": "50 ft., climb 40 ft.",
+"CR": 1
+},
+{
+"Name": "Pegasus",
+"Size": "Large",
+"Type": "celestial",
+"HP": 59,
+"Armor": 12,
+"Speed": "60 ft., fly 90 ft.",
+"CR": 2
+},
+{
+"Name": "Phase Spider",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 32,
+"Armor": 13,
+"Speed": "30 ft., climb 30 ft.",
+"CR": 3
+},
+{
+"Name": "Pit Fiend",
+"Size": "Large",
+"Type": "fiend (devil)",
+"HP": 300,
+"Armor": 19,
+"Speed": "30 ft., fly 60 ft.",
+"CR": 20
+},
+{
+"Name": "Planetar",
+"Size": "Large",
+"Type": "celestial",
+"HP": 200,
+"Armor": 19,
+"Speed": "40 ft., fly 120 ft.",
+"CR": 16
+},
+{
+"Name": "Plesiosaurus",
+"Size": "Large",
+"Type": "beast",
+"HP": 68,
+"Armor": 13,
+"Speed": "20 ft., swim 40 ft.",
+"CR": 2
+},
+{
+"Name": "Poisonous Snake",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 2,
+"Armor": 13,
+"Speed": "30 ft., swim 30 ft.",
+"CR": 1
+},
+{
+"Name": "Polar Bear",
+"Size": "Large",
+"Type": "beast",
+"HP": 42,
+"Armor": 12,
+"Speed": "40 ft., swim 30 ft.",
+"CR": 2
+},
+{
+"Name": "Pony",
+"Size": "Medium",
+"Type": "beast",
+"HP": 11,
+"Armor": 10,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Priest",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 27,
+"Armor": 13,
+"Speed": "25 ft.",
+"CR": 2
+},
+{
+"Name": "Pseudodragon",
+"Size": "Tiny",
+"Type": "dragon",
+"HP": 7,
+"Armor": 13,
+"Speed": "15 ft., fly 60 ft.",
+"CR": 1
+},
+{
+"Name": "Purple Worm",
+"Size": "Gargantuan",
+"Type": "monstrosity",
+"HP": 247,
+"Armor": 18,
+"Speed": "50 ft., burrow 30 ft.",
+"CR": 15
+},
+{
+"Name": "Quasit",
+"Size": "Tiny",
+"Type": "fiend (demon)",
+"HP": 7,
+"Armor": 13,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Quipper",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 13,
+"Speed": "Swim 40 ft.",
+"CR": 0
+},
+{
+"Name": "Rakshasa",
+"Size": "Medium",
+"Type": "fiend",
+"HP": 110,
+"Armor": 16,
+"Speed": "40 ft.",
+"CR": 13
+},
+{
+"Name": "Rat",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 10,
+"Speed": "20 ft.",
+"CR": 0
+},
+{
+"Name": "Raven",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 12,
+"Speed": "10 ft., fly 50 ft.",
+"CR": 0
+},
+{
+"Name": "Red Dragon Wyrmling",
+"Size": "Medium",
+"Type": "dragon",
+"HP": 75,
+"Armor": 17,
+"Speed": "30 ft., climb 30 ft., fly 60 ft.",
+"CR": 4
+},
+{
+"Name": "Reef Shark",
+"Size": "Medium",
+"Type": "beast",
+"HP": 22,
+"Armor": 12,
+"Speed": "Swim 40 ft.",
+"CR": 1
+},
+{
+"Name": "Remorhaz",
+"Size": "Huge",
+"Type": "monstrosity",
+"HP": 195,
+"Armor": 17,
+"Speed": "30 ft., burrow 20 ft.",
+"CR": 11
+},
+{
+"Name": "Rhinoceros",
+"Size": "Large",
+"Type": "beast",
+"HP": 45,
+"Armor": 11,
+"Speed": "40 ft.",
+"CR": 2
+},
+{
+"Name": "Riding Horse",
+"Size": "Large",
+"Type": "beast",
+"HP": 13,
+"Armor": 10,
+"Speed": "60 ft.",
+"CR": 1
+},
+{
+"Name": "Roc",
+"Size": "Gargantuan",
+"Type": "monstrosity",
+"HP": 248,
+"Armor": 15,
+"Speed": "20 ft., fly 120 ft.",
+"CR": 11
+},
+{
+"Name": "Roper",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 93,
+"Armor": 20,
+"Speed": "10 ft., climb 10 ft.",
+"CR": 5
+},
+{
+"Name": "Rug of Smothering",
+"Size": "Large",
+"Type": "construct",
+"HP": 33,
+"Armor": 12,
+"Speed": "10 ft.",
+"CR": 2
+},
+{
+"Name": "Rust Monster",
+"Size": "Medium",
+"Type": "monstrosity",
+"HP": 27,
+"Armor": 14,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Saber-Toothed Tiger",
+"Size": "Large",
+"Type": "beast",
+"HP": 52,
+"Armor": 12,
+"Speed": "40 ft.",
+"CR": 2
+},
+{
+"Name": "Sahuagin",
+"Size": "Medium",
+"Type": "humanoid (sahuagin)",
+"HP": 22,
+"Armor": 12,
+"Speed": "30 ft., swim 40 ft.",
+"CR": 1
+},
+{
+"Name": "Salamander",
+"Size": "Large",
+"Type": "elemental",
+"HP": 90,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 5
+},
+{
+"Name": "Satyr",
+"Size": "Medium",
+"Type": "fey",
+"HP": 31,
+"Armor": 14,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Scorpion",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 11,
+"Speed": "10 ft.",
+"CR": 0
+},
+{
+"Name": "Scout",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 16,
+"Armor": 13,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Sea Hag",
+"Size": "Medium",
+"Type": "fey",
+"HP": 52,
+"Armor": 14,
+"Speed": "30 ft., swim 40 ft.",
+"CR": 2
+},
+{
+"Name": "Sea Horse",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 11,
+"Speed": "Swim 20 ft.",
+"CR": 0
+},
+{
+"Name": "Shadow",
+"Size": "Medium",
+"Type": "undead",
+"HP": 16,
+"Armor": 12,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Shambling Mound",
+"Size": "Large",
+"Type": "plant",
+"HP": 136,
+"Armor": 15,
+"Speed": "20 ft., swim 20 ft.",
+"CR": 5
+},
+{
+"Name": "Shield Guardian",
+"Size": "Large",
+"Type": "construct",
+"HP": 142,
+"Armor": 17,
+"Speed": "30 ft.",
+"CR": 7
+},
+{
+"Name": "Shrieker",
+"Size": "Medium",
+"Type": "plant",
+"HP": 13,
+"Armor": 5,
+"Speed": "0 ft.",
+"CR": 0
+},
+{
+"Name": "Silver Dragon Wyrmling",
+"Size": "Medium",
+"Type": "dragon",
+"HP": 45,
+"Armor": 17,
+"Speed": "30 ft., fly 60 ft.",
+"CR": 2
+},
+{
+"Name": "Skeleton",
+"Size": "Medium",
+"Type": "undead",
+"HP": 13,
+"Armor": 13,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Solar",
+"Size": "Large",
+"Type": "celestial",
+"HP": 243,
+"Armor": 21,
+"Speed": "50 ft., fly 150 ft.",
+"CR": 21
+},
+{
+"Name": "Specter",
+"Size": "Medium",
+"Type": "undead",
+"HP": 22,
+"Armor": 12,
+"Speed": "0 ft., fly 50 ft. (hover)",
+"CR": 1
+},
+{
+"Name": "Spider",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 12,
+"Speed": "20 ft., climb 20 ft.",
+"CR": 0
+},
+{
+"Name": "Spirit Naga",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 75,
+"Armor": 15,
+"Speed": "40 ft.",
+"CR": 8
+},
+{
+"Name": "Sprite",
+"Size": "Tiny",
+"Type": "fey",
+"HP": 2,
+"Armor": 15,
+"Speed": "10 ft., fly 40 ft.",
+"CR": 1
+},
+{
+"Name": "Spy",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 27,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Steam Mephit",
+"Size": "Small",
+"Type": "elemental",
+"HP": 21,
+"Armor": 10,
+"Speed": "30 ft., fly 30 ft.",
+"CR": 1
+},
+{
+"Name": "Stirge",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 2,
+"Armor": 14,
+"Speed": "10 ft., fly 40 ft.",
+"CR": 1
+},
+{
+"Name": "Stone Giant",
+"Size": "Huge",
+"Type": "giant",
+"HP": 126,
+"Armor": 17,
+"Speed": "40 ft.",
+"CR": 7
+},
+{
+"Name": "Stone Golem",
+"Size": "Large",
+"Type": "construct",
+"HP": 178,
+"Armor": 17,
+"Speed": "30 ft.",
+"CR": 10
+},
+{
+"Name": "Storm Giant",
+"Size": "Huge",
+"Type": "giant",
+"HP": 230,
+"Armor": 16,
+"Speed": "50 ft., swim 50 ft.",
+"CR": 13
+},
+{
+"Name": "Succubus",
+"Size": "Medium",
+"Type": "Fiend (Shapechanger)",
+"HP": 66,
+"Armor": 15,
+"Speed": "30 ft., fly 60 ft.",
+"CR": 4
+},
+{
+"Name": "Succubus (Incubus)",
+"Size": "Medium",
+"Type": "fiend (shapechanger)",
+"HP": 66,
+"Armor": 15,
+"Speed": "30 ft., fly 60 ft.",
+"CR": 4
+},
+{
+"Name": "Swarm of Bats",
+"Size": "Medium",
+"Type": "swarm of tiny beasts",
+"HP": 22,
+"Armor": 12,
+"Speed": "0 ft., fly 30 ft.",
+"CR": 1
+},
+{
+"Name": "Swarm of Beetles",
+"Size": "Medium",
+"Type": "swarm of tiny beasts",
+"HP": 22,
+"Armor": 12,
+"Speed": "20 ft., burrow 5 ft., climb 20 ft.",
+"CR": 1
+},
+{
+"Name": "Swarm of Centipedes",
+"Size": "Medium",
+"Type": "swarm of tiny beasts",
+"HP": 22,
+"Armor": 12,
+"Speed": "20 ft., climb 20 ft.",
+"CR": 1
+},
+{
+"Name": "Swarm of Insects",
+"Size": "Medium",
+"Type": "swarm of tiny beasts",
+"HP": 22,
+"Armor": 12,
+"Speed": "20 ft., climb 20 ft.",
+"CR": 1
+},
+{
+"Name": "Swarm of Poisonous Snakes",
+"Size": "Medium",
+"Type": "swarm of tiny beasts",
+"HP": 36,
+"Armor": 14,
+"Speed": "30 ft., swim 30 ft.",
+"CR": 2
+},
+{
+"Name": "Swarm of Quippers",
+"Size": "Medium",
+"Type": "swarm of tiny beasts",
+"HP": 28,
+"Armor": 13,
+"Speed": "0 ft., swim 40 ft.",
+"CR": 1
+},
+{
+"Name": "Swarm of Rats",
+"Size": "Medium",
+"Type": "swarm of tiny beasts",
+"HP": 24,
+"Armor": 10,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Swarm of Ravens",
+"Size": "Medium",
+"Type": "swarm of tiny beasts",
+"HP": 24,
+"Armor": 12,
+"Speed": "10 ft., fly 50 ft.",
+"CR": 1
+},
+{
+"Name": "Swarm of Spiders",
+"Size": "Medium",
+"Type": "swarm of tiny beasts",
+"HP": 22,
+"Armor": 12,
+"Speed": "20 ft., climb 20 ft.",
+"CR": 1
+},
+{
+"Name": "Swarm of Wasps",
+"Size": "Medium",
+"Type": "swarm of tiny beasts",
+"HP": 22,
+"Armor": 12,
+"Speed": "5 ft., fly 30 ft.",
+"CR": 1
+},
+{
+"Name": "Tarrasque",
+"Size": "Gargantuan",
+"Type": "monstrosity (titan)",
+"HP": 676,
+"Armor": 25,
+"Speed": "40 ft.",
+"CR": 30
+},
+{
+"Name": "Thug",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 32,
+"Armor": 11,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Tiger",
+"Size": "Large",
+"Type": "beast",
+"HP": 37,
+"Armor": 12,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Treant",
+"Size": "Huge",
+"Type": "plant",
+"HP": 138,
+"Armor": 16,
+"Speed": "30 ft.",
+"CR": 9
+},
+{
+"Name": "Tribal Warrior",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 11,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 1
+},
+{
+"Name": "Triceratops",
+"Size": "Huge",
+"Type": "beast",
+"HP": 95,
+"Armor": 13,
+"Speed": "50 ft.",
+"CR": 5
+},
+{
+"Name": "Troll",
+"Size": "Large",
+"Type": "giant",
+"HP": 84,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 5
+},
+{
+"Name": "Tyrannosaurus Rex",
+"Size": "Huge",
+"Type": "beast",
+"HP": 136,
+"Armor": 13,
+"Speed": "50 ft.",
+"CR": 8
+},
+{
+"Name": "Unicorn",
+"Size": "Large",
+"Type": "celestial",
+"HP": 67,
+"Armor": 12,
+"Speed": "50 ft.",
+"CR": 5
+},
+{
+"Name": "Vampire",
+"Size": "Medium",
+"Type": "undead (shapechanger)",
+"HP": 144,
+"Armor": 16,
+"Speed": "30 ft.",
+"CR": 13
+},
+{
+"Name": "Vampire Spawn",
+"Size": "Medium",
+"Type": "undead",
+"HP": 82,
+"Armor": 15,
+"Speed": "30 ft.",
+"CR": 5
+},
+{
+"Name": "Veteran",
+"Size": "Medium",
+"Type": "humanoid (any race)",
+"HP": 58,
+"Armor": 17,
+"Speed": "30 ft.",
+"CR": 3
+},
+{
+"Name": "Violet Fungus",
+"Size": "Medium",
+"Type": "plant",
+"HP": 18,
+"Armor": 5,
+"Speed": "5 ft.",
+"CR": 1
+},
+{
+"Name": "Vrock",
+"Size": "Large",
+"Type": "fiend (demon)",
+"HP": 104,
+"Armor": 15,
+"Speed": "40 ft., fly 60 ft.",
+"CR": 6
+},
+{
+"Name": "Vulture",
+"Size": "Medium",
+"Type": "beast",
+"HP": 5,
+"Armor": 10,
+"Speed": "10 ft., fly 50 ft.",
+"CR": 0
+},
+{
+"Name": "Warhorse",
+"Size": "Large",
+"Type": "beast",
+"HP": 19,
+"Armor": 11,
+"Speed": "60 ft.",
+"CR": 1
+},
+{
+"Name": "Warhorse Skeleton",
+"Size": "Large",
+"Type": "undead",
+"HP": 22,
+"Armor": 13,
+"Speed": "60 ft.",
+"CR": 1
+},
+{
+"Name": "Water Elemental",
+"Size": "Large",
+"Type": "elemental",
+"HP": 114,
+"Armor": 14,
+"Speed": "30 ft., swim 90 ft.",
+"CR": 5
+},
+{
+"Name": "Weasel",
+"Size": "Tiny",
+"Type": "beast",
+"HP": 1,
+"Armor": 13,
+"Speed": "30 ft.",
+"CR": 0
+},
+{
+"Name": "Werebear",
+"Size": "Medium",
+"Type": "humanoid (human",
+"HP": 135,
+"Armor": 10,
+"Speed": "30 ft. (40 ft., climb 30 ft. in bear or hybrid form)",
+"CR": 5
+},
+{
+"Name": "Wereboar",
+"Size": "Medium",
+"Type": "humanoid (human",
+"HP": 78,
+"Armor": 10,
+"Speed": "30 ft. (40 ft. in boar form)",
+"CR": 4
+},
+{
+"Name": "Wererat",
+"Size": "Medium",
+"Type": "humanoid (human",
+"HP": 33,
+"Armor": 12,
+"Speed": "30 ft.",
+"CR": 2
+},
+{
+"Name": "Weretiger",
+"Size": "Medium",
+"Type": "humanoid (human",
+"HP": 120,
+"Armor": 12,
+"Speed": "30 ft. (40 ft. in tiger form)",
+"CR": 4
+},
+{
+"Name": "Werewolf",
+"Size": "Medium",
+"Type": "humanoid (human",
+"HP": 58,
+"Armor": 11,
+"Speed": "30 ft. (40 ft. in wolf form)",
+"CR": 3
+},
+{
+"Name": "White Dragon Wyrmling",
+"Size": "Medium",
+"Type": "dragon",
+"HP": 32,
+"Armor": 16,
+"Speed": "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.",
+"CR": 2
+},
+{
+"Name": "Wight",
+"Size": "Medium",
+"Type": "undead",
+"HP": 45,
+"Armor": 14,
+"Speed": "30 ft.",
+"CR": 3
+},
+{
+"Name": "Will-o'-Wisp",
+"Size": "Tiny",
+"Type": "undead",
+"HP": 22,
+"Armor": 19,
+"Speed": "0 ft., fly 50 ft. (hover)",
+"CR": 2
+},
+{
+"Name": "Winter Wolf",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 75,
+"Armor": 13,
+"Speed": "50 ft.",
+"CR": 3
+},
+{
+"Name": "Wolf",
+"Size": "Medium",
+"Type": "beast",
+"HP": 11,
+"Armor": 13,
+"Speed": "40 ft.",
+"CR": 1
+},
+{
+"Name": "Worg",
+"Size": "Large",
+"Type": "monstrosity",
+"HP": 26,
+"Armor": 13,
+"Speed": "50 ft.",
+"CR": 1
+},
+{
+"Name": "Wraith",
+"Size": "Medium",
+"Type": "undead",
+"HP": 67,
+"Armor": 13,
+"Speed": "0 ft., fly 60 ft. (hover)",
+"CR": 5
+},
+{
+"Name": "Wyvern",
+"Size": "Large",
+"Type": "dragon",
+"HP": 110,
+"Armor": 13,
+"Speed": "20 ft., fly 80 ft.",
+"CR": 6
+},
+{
+"Name": "Xorn",
+"Size": "Medium",
+"Type": "elemental",
+"HP": 73,
+"Armor": 19,
+"Speed": "20 ft., burrow 20 ft.",
+"CR": 5
+},
+{
+"Name": "Young Black Dragon",
+"Size": "Large",
+"Type": "dragon",
+"HP": 127,
+"Armor": 18,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 7
+},
+{
+"Name": "Young Blue Dragon",
+"Size": "Large",
+"Type": "dragon",
+"HP": 152,
+"Armor": 18,
+"Speed": "40 ft., burrow 40 ft., fly 80 ft.",
+"CR": 9
+},
+{
+"Name": "Young Brass Dragon",
+"Size": "Large",
+"Type": "dragon",
+"HP": 110,
+"Armor": 17,
+"Speed": "40 ft., burrow 20 ft., fly 80 ft.",
+"CR": 6
+},
+{
+"Name": "Young Bronze Dragon",
+"Size": "Large",
+"Type": "dragon",
+"HP": 142,
+"Armor": 18,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 8
+},
+{
+"Name": "Young Copper Dragon",
+"Size": "Large",
+"Type": "dragon",
+"HP": 119,
+"Armor": 17,
+"Speed": "40 ft., climb 40 ft., fly 80 ft.",
+"CR": 7
+},
+{
+"Name": "Young Gold Dragon",
+"Size": "Large",
+"Type": "dragon",
+"HP": 178,
+"Armor": 18,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 10
+},
+{
+"Name": "Young Green Dragon",
+"Size": "Large",
+"Type": "dragon",
+"HP": 136,
+"Armor": 18,
+"Speed": "40 ft., fly 80 ft., swim 40 ft.",
+"CR": 8
+},
+{
+"Name": "Young Red Dragon",
+"Size": "Large",
+"Type": "dragon",
+"HP": 178,
+"Armor": 18,
+"Speed": "40 ft., climb 40 ft., fly 80 ft.",
+"CR": 10
+},
+{
+"Name": "Young Silver Dragon",
+"Size": "Large",
+"Type": "dragon",
+"HP": 168,
+"Armor": 18,
+"Speed": "40 ft., fly 80 ft.",
+"CR": 9
+},
+{
+"Name": "Young White Dragon",
+"Size": "Large",
+"Type": "dragon",
+"HP": 133,
+"Armor": 17,
+"Speed": "40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.",
+"CR": 6
+},
+{
+"Name": "Zombie",
+"Size": "Medium",
+"Type": "undead",
+"HP": 22,
+"Armor": 8,
+"Speed": "20 ft.",
+"CR": 1
+}
+]
