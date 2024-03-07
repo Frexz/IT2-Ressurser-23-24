@@ -22,6 +22,21 @@
         let average = sum / categoryRatings.length
         ratings.push(average)
     })
+
+    let installs = []
+    topThree.forEach(element => {
+        let categoryInstalls = element[1].map(element => {return Number(element.Installs.slice(0, -1).replaceAll(",", ""))})
+        let sum = categoryInstalls.reduce((sum, current) => {return sum + current})
+        let average = sum / categoryInstalls.length
+        installs.push(average)
+    })
+
+    let topApps = []
+    topThree.forEach(element => {
+        let categoryApps = element[1].map(element => {return [element.App, Number(element.Installs.slice(0, -1).replaceAll(",", ""))]})
+        categoryApps.sort((a, b) => {return b[1] - a[1]})
+        topApps.push(categoryApps.slice(0, 3))
+    })
 </script>
 
 <a href="/løsning">Løsning</a>
@@ -32,6 +47,7 @@
             <th>Antall Apper</th>
             <th>Gjennomsnittlig Rating</th>
             <th>Gjennomsnittlige Installasjoner</th>
+            <th>Top Tre Apper</th>
         </tr>
 
         {#each topThree as category, i}
@@ -39,6 +55,12 @@
                 <td>{category[0]}</td>
                 <td>{category[1].length}</td>
                 <td>{ratings[i].toFixed(1)}</td>
+                <td>{installs[i].toFixed(0)}</td>
+                <td>
+                    {#each topApps[i] as app}
+                        {app[0]} ({app[1]}) <br>
+                    {/each}
+                </td>
             </tr>
         {/each}
     </table>
