@@ -57,6 +57,9 @@
 
 <a href="/">Tilbake</a>
 
+<!-- Resultatet er presenter som en tabell. Dette fungerer bra for antall kanaler,
+men mindre bra for gjennomsnittlige abonnementer og visninger. Det hadde vært lurere å fremstille disse som 
+et diagram i stedet. Hvis man har text-align: right; i tabellen er det letter å sammenlikne disse verdiene. -->
 <div class="table">
     <table>
         <tr>
@@ -90,6 +93,10 @@
 
     th {
         background-color: cornflowerblue;
+    }
+
+    td {
+        text-align: right;
     }
 
     .table {

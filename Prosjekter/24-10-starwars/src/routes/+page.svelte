@@ -28,6 +28,8 @@
     })
 </script>
 
+<a href="/oppgave1">Oppgave 1</a>
+
 <div class="chart">
     <canvas bind:this={canvas} />
 </div>

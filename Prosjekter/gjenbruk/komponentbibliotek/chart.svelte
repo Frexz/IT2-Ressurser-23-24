@@ -2,6 +2,7 @@
     import chartjs from 'chart.js/auto'
     import { onMount } from 'svelte'
 
+
     let canvas
     let ctx
 
