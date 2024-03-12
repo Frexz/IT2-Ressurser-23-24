@@ -1,2 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    
+</script>
+
+<h1>Oppgaver</h1>
+<a href="/a">a</a>
+<a href="/b">b</a>
+<a href="/c">c</a>
+
+<style>
+    
+</style>
