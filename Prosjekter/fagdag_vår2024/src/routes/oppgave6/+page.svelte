@@ -20,7 +20,7 @@
             return false
         }
 
-        return binærSøk(arr, n)
+        return binærSøkRekursiv(arr, n)
     }
 
     /* Med while-løkke */
